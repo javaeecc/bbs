@@ -28,8 +28,6 @@ import cc.javaee.bbs.tool.PublicStatic;
 import cc.javaee.bbs.tool.Tool;
 import cc.javaee.bbs.tool.ToolIp;
 import cc.javaee.bbs.tool.ToolSpring;
-import cc.javaee.bbs.tool.test.CSDN;
-import cc.javaee.bbs.tool.test.QulishiFenyun;
 import cc.javaee.bbs.tool.thread.IndexThread;
 
 /*
